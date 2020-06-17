@@ -1,0 +1,5 @@
+- Cats :cat:
+- Coffee :coffee:
+- Unicorns :unicorn:
+- Coding :computer:
+- Graphs :chart:

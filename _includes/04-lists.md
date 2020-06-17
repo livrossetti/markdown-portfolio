@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Cats :cat:
+- Coffee :coffee:
+- Unicorns :unicorn:
+- Coding :computer:
+- Graphs :chart:
